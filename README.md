@@ -53,15 +53,6 @@ Currently exploring:
   <img src="https://streak-stats.demolab.com?user=Costasfox&theme=transparent&hide_border=true" />
 </p>
 
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Costasfox&theme=github-compact&hide_border=true" />
-</p>
-
----
 
 ## 🧠 What I'm Working On
 
