@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a **Web Developer** focused on building websites, e-commerce solutions, custom tools and automations.
+I'm a **Fulll Stack Developer** focused on building websites, e-commerce solutions, custom tools and automations.
 
 Currently exploring:
 
